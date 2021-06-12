@@ -22,6 +22,7 @@ struct ContentView: View {
         Question(title: "What is our QnA platform?", option1: "#text-qns", option2: "Ed", option3: "webex", option4: "void")
     ]
     
+    
     var body: some View {
         VStack{
             
